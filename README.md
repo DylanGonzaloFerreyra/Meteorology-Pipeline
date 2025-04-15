@@ -101,25 +101,5 @@ Table: **`weather_report`**
 
 ---
 
-## Future Improvements 🌟
-- Add support for multiple cities.
-- Build a dashboard to visualize weather data in real time.
-- Enhance error handling for better resilience.
-
----
-
-## Contributing 🤝
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, submit issues, or create pull requests.
-
----
-
-## License 📄
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-### Notas finales:
-- Asegúrate de reemplazar `path/to/...` en las rutas de las capturas de pantalla con las ubicaciones reales de las imágenes en tu repositorio.
-- Si tienes más capturas o elementos para agregar, puedo ayudarte a adaptarlo.
 
 ¡Con este README, tu repositorio estará profesional y listo para destacar en GitHub! 🚀✨
