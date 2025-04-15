@@ -66,14 +66,15 @@ This project automates the process of collecting, processing, and storing weathe
 ### Starting Airflow Services
 Here’s how the terminal looks when starting the **Airflow Scheduler** and **Webserver**:
 ![Airflow Services](images/screenshots/airflow_terminal_1.jpg)
+![Airflow Services](images/screenshots/airflow_terminal_2.jpg)
 
 ### Airflow Interface
 Screenshot of the Apache Airflow interface showing the DAGs:
-![Airflow Interface](path/to/airflow_interface_screenshot.png)
+![Airflow Interface](images/screenshots/interface_airflow.jpg)
 
 ### Weather Report Table
 Example of the PostgreSQL table `weather_report` with weather data:
-![Weather Report Table](path/to/weather_report_table_screenshot.png)
+![Weather Report Table](images/screenshots/table_weather_report.jpg)
 
 ---
 
