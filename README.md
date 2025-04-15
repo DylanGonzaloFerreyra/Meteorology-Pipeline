@@ -15,9 +15,10 @@ This project automates the process of collecting, processing, and storing weathe
 ## Installation and Setup 🛠️
 
 ### Prerequisites
-1. **Python 3.8+**
-2. **PostgreSQL 12+**
-3. **Apache Airflow**
+- Ubuntu Linux: Due to native incompatibilities, Apache Airflow runs more reliably on Linux systems like Ubuntu.
+- Python 3.8+
+- PostgreSQL 12+
+- Apache Airflow
 
 ### Steps
 1. Clone the repository:
