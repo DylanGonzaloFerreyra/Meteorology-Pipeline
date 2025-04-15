@@ -1,3 +1,4 @@
+![project_cover](images/project_cover.jpg)
 # Meteorology Pipeline 🌦️
 
 This project automates the process of collecting, processing, and storing weather data. It uses the **OpenWeather API**, **Apache Airflow**, and **PostgreSQL** to create a streamlined pipeline for weather data retrieval and monitoring. The pipeline is scheduled and monitored via Apache Airflow and stores results in a PostgreSQL database for further analysis.
