@@ -65,7 +65,7 @@ This project automates the process of collecting, processing, and storing weathe
 ## Screenshots 📸
 ### Starting Airflow Services
 Here’s how the terminal looks when starting the **Airflow Scheduler** and **Webserver**:
-![Airflow Services](path/to/airflow_services_screenshot.png)
+![Airflow Services](images/screenshots/airflow_terminal_1.jpg)
 
 ### Airflow Interface
 Screenshot of the Apache Airflow interface showing the DAGs:
